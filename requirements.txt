@@ -2,3 +2,4 @@ aiogram==3.4.1
 motor==3.3.2   # если ты используешь MongoDB
 python-dotenv  # если ты используешь .env файл
 pymongo==4.5.0
+certifi>=2023.7.22
